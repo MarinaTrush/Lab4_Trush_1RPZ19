@@ -1,0 +1,39 @@
+body{
+	margin: 0; padding: 0;
+}
+a:link{
+	font-size: 18px; color: blueviolet; text-decoration: none; font-style: oblique;
+}
+a:visited{
+	font-size: 18px; color: red; text-decoration: none;
+}
+a:hover{
+	text-decoration: underline;
+}
+table{
+	background: #f4f4f4;
+}
+header h1{
+	background: url(1.png) ; margin: 0; padding: 10px 0px 10px 0px;
+}
+strong{
+	background-color: #e8b8fc;  font-style: italic; color: blueviolet; 
+	font-family: Courier New; font-size: 20px;
+}
+font b{
+	font-family: serif; color:#666666; 
+	text-decoration: underline; 
+	text-decoration-style: wavy;
+	text-decoration-color: #b2b2b2; 
+	font-size: 18px;
+}
+hr{
+	width: 100%; size: 1px solid; margin: 0 0 10px 0;
+}
+td.colona{
+	width: 30px; 
+	background-color:#d8dde8;
+}
+.table{
+	background-color: #eaeaea;
+}
